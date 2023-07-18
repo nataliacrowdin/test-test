@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
   <UTF8/>
-  <string id="1">Quellzeichenkette #1</string>
-  <string id="2">Quellzeichenkette #2</string>
-  <string id="3">Quellzeichenkette #3</string>
-  <string id="4">Quellzeichenkette #4</string>
-  <string id="5">Quellzeichenkette #5</string>
+  <string id="1">Texto de origem #1</string>
+  <string id="2">String de origem #2</string>
+  <string id="3">String de origem #3</string>
+  <string id="4">String de origem #4</string>
+  <string id="5">String de origem #5</string>
 </data>
